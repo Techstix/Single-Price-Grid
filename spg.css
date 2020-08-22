@@ -1,0 +1,84 @@
+body{
+    background: cyan;
+    font-family: 'Karla', sans-serif;
+
+}
+
+
+
+p{
+    font-weight: 400;
+}
+
+
+.displayFlex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h2{
+    font-weight: 700;
+    color: #c0df34;
+}
+
+.bg{
+    background: #2ab2af;
+    color: white;
+}
+
+.container{
+    padding: 20px;
+}
+
+.btn{
+    color: white;
+    border: 0px;
+    cursor: pointer;
+    margin-top: 20px;
+    background: #c0df34;
+    font-size: 16px;
+    border-radius: 5px;
+    padding: 16px 50px 16px 50px;
+    box-shadow: gray 5px 10px 10px;
+    width: 100%;
+    
+}
+
+.w50{
+    width: 50%;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    line-height: 1.5em;
+    padding-bottom: 5px;
+}
+
+.pad{
+    padding: 25px;
+}
+
+.bgw{
+    background:#98a6bd;
+    color: white;
+}
+
+.thecard{
+    background: white;
+    box-shadow: rgb(221, 221, 221) 5px 10px 5px 1px;
+    position: relative;
+    margin: auto;
+    left: 0;
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+    justify-content: center;
+    
+}
+
+.pad1{
+    padding: 25px;
+}
